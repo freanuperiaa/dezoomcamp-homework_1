@@ -1,3 +1,5 @@
 this will be the repo for my homework 1.
 
-(testing git first)
+note: please check `HOMEWORK 1 ANSWERS.txt` for my solutions and answers to homework 1.
+
+thank you very much!
